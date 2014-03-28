@@ -1,0 +1,7 @@
+---
+applications:
+- name: sinatra-hello-world
+  memory: 256M
+  instances: 1
+  host: sinatra-hello-world
+  path: .
